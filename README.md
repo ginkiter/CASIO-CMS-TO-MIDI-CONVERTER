@@ -5,10 +5,10 @@ Convert midi0 file to cms file.
 
 
 
-cmsconv.exe - the program i wrote find out what is the internal structure of CASIO csm file format.
+cmsconv.exe - the program i wrote find out what is the internal structure of CASIO csm file format.<br>
 
-its written long ago and i dont know is it work or now.
+its written long ago and i dont know is it work or now.<br>
 <br>
 how to use <br>
-1.click "midi convert" and select midi file you want to convert.
-2.click "cms file". first input - song name, second cmsfilename. click the button.
+1.click "midi convert" and select midi file you want to convert.<br>
+2.click "cms file". first input - song name, second cmsfilename. click the button.<br>
