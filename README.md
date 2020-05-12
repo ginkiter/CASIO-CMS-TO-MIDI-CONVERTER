@@ -1,4 +1,4 @@
-# MIDI-TO-CASIO-CMS file converter
+# MIDI TO CASIO CMS file converter
 File converter for CASIO WK-7500, WK-6500
 
 Convert midi0 file to cms file.
