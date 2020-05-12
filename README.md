@@ -7,4 +7,6 @@ usage :
 
 convert.exe file.midi file.cms songname
 
+cmsconv.exe - the program i wrote find out what is the internal structure of CASIO csm file format.
+
 its written long ago and i dont know is it work or now.
