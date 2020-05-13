@@ -5,7 +5,7 @@ Convert midi0 file to cms file.
 
 
 
-cmsconv.exe - the program i wrote find out what is the internal structure of CASIO csm file format.<br>
+cmsconv.exe - the program i wrote to find out what is the internal structure of CASIO csm file format.<br>
 
 its written on Delphi7 long ago and i dont know is it work or now.<br>
 <br>
